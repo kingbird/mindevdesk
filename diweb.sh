@@ -13,8 +13,8 @@
 tmpISPLUSEDITION='0' # 0 free,1 plus
 
 # mirror settings(deb and targetddurl)
-export autoDEBMIRROR1='https://gitee.com/minlearn/mindevdesk/raw/master'
-export autoIMGMIRROR1='https://gitee.com/minlearn/mindevdesk/raw/master'
+export autoDEBMIRROR1='https://github.com/kingbird/mindevdesk/raw/master'
+export autoIMGMIRROR1='https://github.com/kingbird/mindevdesk/raw/master'
 #export autoDEBMIRROR1='https://github.com/minlearn/mindevdesk/raw/master'
 #export autoIMGMIRROR1='https://github.com/minlearn/mindevdesk/raw/master'
 # apply a fixed mirror/targetddurl selection to force override autoselectdebmirror results based on -t -m args given
