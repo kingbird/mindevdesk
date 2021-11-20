@@ -1,0 +1,21 @@
+Origin: Debian
+Label: Debian
+Suite: stable
+Version: 10.8
+Codename: buster
+Changelogs: http://metadata.ftp-master.debian.org/changelogs/@CHANGEPATH@_changelog
+Date: Sat, 06 Feb 2021 10:10:28 UTC
+Acquire-By-Hash: yes
+Architectures: amd64
+Components: main main-debian-installer main-security-updates
+Description: Debian 10.8 Released 06 February 2021
+
+MD5Sum:
+ a2bbe3327322aba45fd03f8a2cb06285 45192330 main/binary-amd64/Packages
+ 54ad820d345759da8df02d1569bde5c1   283583 main-debian-installer/binary-amd64/Packages
+ a442b5156017e49435c2112f8b89ae2c  1600367 main-security-updates/binary-amd64/Packages
+
+SHA256:
+ b1bb3e2bda619eac33763825ae61affc5998a7e54c47ea5967838d87d4ce5ced 45192330 main/binary-amd64/Packages
+ 25be0c7fbbc697d0191d8414627ad1203617ba5330d8ddc2791e75d98cb0ceff   283583 main-debian-installer/binary-amd64/Packages
+ a628898187fd82c5ed5efbd4af76ec03923b4131c88c4616d53ae2411419755a  1600367 main-security-updates/binary-amd64/Packages
